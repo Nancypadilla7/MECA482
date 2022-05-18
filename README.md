@@ -13,7 +13,7 @@ Aaron Fawcett, Alexander Hernandez, Nancy Padilla, Dylan Sanders, Marius Van Zyl
 
 The "Furuta Pendulum" is a sytem of two arms linked together controlled by one motor. The first arm rotates in a horizontal plane and the second arm rotates in a vertical plane at the end of the first arm. A Furuta Pendulm can be seen in the figure below.
 
-![](RotaryInvertedPedulum.png)
+![](images/RotaryInvertedPedulum.png)
 
 Resources 
 # System Requirements
