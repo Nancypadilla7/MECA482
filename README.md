@@ -1,8 +1,25 @@
 # Furuta Pendulum
-# MECA 482-01 Group 2: Aaron Fawcett, Alexander Hernandez, Nancy Padilla, Dylab Sanders, Marius Van Zyl 
+# MECA 482-01 Group 2
+Aaron Fawcett, Alexander Hernandez, Nancy Padilla, Dylab Sanders, Marius Van Zyl 
+# Table of Contents
+1. Introduction
+2. System Requirements
+3. Model
+4. Controller and Design Simulations
+5. Results
+6. References
 # Introduction 
-1. Background 
-2. Resources 
+**Background**
+
+The "Furuta Pendulum" is a sytem of two arms linked together controlled by one motor. The first arm rotates in a horizontal plane and the second arm rotates in a vertical plane at the end of the first arm. A Furuta Pendulm can be seen in the figure below.
+
+
+Resources 
+# System Requirements
+# Model
+# Controller and Design Simulations
+# Results
+# References
 
 Several resources are listed below. These resources were utlized by the team throughtout the design process of the project. For full citation refer to "Reference":
 Automatic Control with experiments: Victor Manuel Hernandez-Guzman & Ramon Silva-Ortigoza 
