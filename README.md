@@ -16,7 +16,7 @@ The "Furuta Pendulum" is a sytem of two arms linked together controlled by one m
   <img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/RotaryInvertedPendulum.png?raw= true" title="Furuta Pendulum Example">
 </p>
 
-<h3 align="center">Furuta Pendulum Example</h3>
+
 
 The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
 
@@ -65,10 +65,23 @@ Next, the Kinetic energy for the body is the translational movement of the body'
                                                                                                                                      <p align="center">
 <img width="305" height="41" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/eq2.PNG?raw= true" title="Furuta Pendulum Example">
 </p>
-                                                                                                                                    
+                                                                                                                                  To comute the pendulum poential energy, θ1 is equal to zero, and its the reference point. The equation below is the potential energy equation. 
+               <p align="center">
+<img width="291" height="30" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/poten.PNG?raw= true" title="Furuta Pendulum Example">
+</p>                                                                                                       
+                                                                                                            The equation below is the representation of of the system mathematical model, which is nonlinear. 
+   <p align="center">
+<img width="418" height="172" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/fmm.PNG?raw= true" title="Furuta Pendulum Example">
+</p>                                                                                                        
+                                                                                                           The next step is to write the Mathematical model in terms of state space representation. State space representation is found by definding the state x components as an unknown variable. Below shows the system variables in state space representation.
+ <p align="center">
+<img width="173" height="97" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/15.3.PNG?raw= true" title="Furuta Pendulum Example">
+</p>
+                                                                                                            Applying  the prevoius equations, the relationship of the equations, it expression is define as a vector matrix state space eqation. the result is seen below. 
+   <p align="center">
+<img width="466" height="150" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/15.18.PNG?raw= true" title="Furuta Pendulum Example">
+</p>                                                                                                                                            
                                                                                                                                    
- 
-4.
 ## Controller and Design Simulations
 ## Results
 ## References
