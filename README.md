@@ -20,11 +20,19 @@ The "Furuta Pendulum" is a sytem of two arms linked together controlled by one m
 <h3 align="center">Furuta Pendulum Example</h3>
 
 The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
-<p align="center">
-  <img width="882" height="360" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/OperationViewpoint.png?raw= true" title="operational ViewPoint for the Pendulum">
-</p>
+
 
 ## System Requirements
+
+* Must keep pendulum within 90 degrees from vertical
+* Must be able to be disturbed and self-correct
+
+<p align="center">
+  <img width="1000" height="473" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/OperationViewpoint.png?raw= true" title="operational ViewPoint for the Pendulum">
+</p>
+
+<h3 align="center">Operational Viewpoint for the Furuta Pendulum</h3>
+
 ## Model
 
 <p align="center">
@@ -33,7 +41,6 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 
 ## Controller and Design Simulations
 ## Results
-These are our results
 ## References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
 
