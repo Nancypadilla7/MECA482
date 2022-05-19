@@ -26,7 +26,8 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 
 ## System Requirements
 ## Model
-Hello again!
+<img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG"?raw= true" title="Furuta Pendulum Example">
+</p>
 ## Controller and Design Simulations
 ## Results
 These are our results
