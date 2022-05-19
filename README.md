@@ -33,6 +33,9 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 <h3 align="center">Operational Viewpoint for the Furuta Pendulum</h3>
 
 ## Model
+<p align="center">
+<img width="500" height="320" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG?raw= true" title="Symbolic Schematic">
+
 1. Schematic
 In order to model the Furuta Pendulum, a schematic was use to derive the mathematical model.The reference axes and the system variable is define by the figure below. The mathematical model for the this system is obtained by using the Euler Lagrangian equations. 
 <p align="center">
