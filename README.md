@@ -33,11 +33,8 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 <h3 align="center">Operational Viewpoint for the Furuta Pendulum</h3>
 
 ## Model
-<p align="center">
-<img width="500" height="320" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG?raw= true" title="Symbolic Schematic">
 
-1. Schematic
-In order to model the Furuta Pendulum, a schematic was use to derive the mathematical model.The reference axes and the system variable is define by the figure below. The mathematical model for the this system is obtained by using the Euler Lagrangian equations. 
+  In order to model the Furuta Pendulum, a schematic was use to derive the mathematical model.The reference axes and the system variable is define by the figure below. The mathematical model for the this system is obtained by using the Euler Lagrangian equations. 
 <p align="center">
 <img width="493" height="316" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG?raw= true" title="Furuta Pendulum Example">
 </p>
@@ -65,7 +62,8 @@ Next, the Kinetic energy for the body is the translational movement of the body'
                                                                                                                                      <p align="center">
 <img width="305" height="41" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/eq2.PNG?raw= true" title="Furuta Pendulum Example">
 </p>
-                                                                                                                                  To comute the pendulum poential energy, θ1 is equal to zero, and its the reference point. The equation below is the potential energy equation. 
+                                                                                                                                              
+To compute the pendulum poential energy, θ1 is equal to zero, and its the reference point. The equation below is the potential energy equation. 
                <p align="center">
 <img width="291" height="30" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/poten.PNG?raw= true" title="Furuta Pendulum Example">
 </p>                                                                                                       
@@ -73,16 +71,19 @@ Next, the Kinetic energy for the body is the translational movement of the body'
    <p align="center">
 <img width="418" height="172" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/fmm.PNG?raw= true" title="Furuta Pendulum Example">
 </p>                                                                                                        
-                                                                                                           The next step is to write the Mathematical model in terms of state space representation. State space representation is found by definding the state x components as an unknown variable. Below shows the system variables in state space representation.
+The next step is to write the Mathematical model in terms of state space representation. State space representation is found by definding the state x components as an unknown variable. Below shows the system variables in state space representation.
  <p align="center">
 <img width="173" height="97" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/15.3.PNG?raw= true" title="Furuta Pendulum Example">
 </p>
-                                                                                                            Applying  the prevoius equations, the relationship of the equations, it expression is define as a vector matrix state space eqation. the result is seen below. 
+                                                                                                            
+Applying the prevoius equations,the relationship of the equations, it expression is define as a vector matrix state space eqation. the result is seen below. 
+                                                                                                                                               
    <p align="center">
 <img width="466" height="150" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/15.18.PNG?raw= true" title="Furuta Pendulum Example">
 </p>                                                                                                                                            
                                                                                                                                    
 ## Controller and Design Simulations
+The simulation was achievied in CoppeliaSIM. The equation of motion is implemented into comppeliaSIM. The model is programmed using MATLAB and then the program is linked to CoppeliaSIM.                                     
 ## Results
 ## References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
