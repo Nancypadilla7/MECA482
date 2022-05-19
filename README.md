@@ -34,9 +34,8 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 <h3 align="center">Operational Viewpoint for the Furuta Pendulum</h3>
 
 ## Model
-
 <p align="center">
-<img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG?raw= true" title="Furuta Pendulum Example">
+<img width="500" height="320" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/symbolicschematic.PNG?raw= true" title="Symbolic Schematic">
 </p>
 
 ## Controller and Design Simulations
