@@ -55,7 +55,18 @@ The following parameters are obtained based on the schematic above and the param
 *  J1 is the moment of inertia
 
 2. Equation of Motion 
-   
+  <p align="center">
+<img width="262" height="53" src=https://github.com/Nancypadilla7/MECA482/blob/main/images/newequation1.PNG?raw= true" title="Furuta Pendulum Example">
+</p>
+ 
+ For the system total kinetic energy is the summation of the kintic energy of the pendulum arm rotating, as well as the kintic enegy rotating.The equation shown above are the general definition for the given system. 
+                                                                                                                                  
+Next, the Kinetic energy for the body is the translational movement of the body's center of mass and the rotative movement of a beam around an axis passing through the pendulum center. The equation below define the systems total kinetic energy.
+                                                                                                                                     <p align="center">
+<img width="305" height="41" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/eq2.PNG?raw= true" title="Furuta Pendulum Example">
+</p>
+                                                                                                                                    
+                                                                                                                                   
  
 4.
 ## Controller and Design Simulations
