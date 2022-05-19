@@ -21,10 +21,6 @@ The "Furuta Pendulum" is a sytem of two arms linked together controlled by one m
 
 The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
 
-Several resources are listed below. These resources were utlized by the team throughtout the design process of the project. For full citation refer to "Reference":
-Automatic Control with experiments: Victor Manuel Hernandez-Guzman & Ramon Silva-Ortigoza 
-Control System Engineering : 7th Edition; Norman S. Nice 
-
 ## System Requirements
 ## Model
 ## Controller and Design Simulations
