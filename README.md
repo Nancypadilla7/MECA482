@@ -11,19 +11,26 @@ Aaron Fawcett, Alexander Hernandez, Nancy Padilla, Dylan Sanders, Marius Van Zyl
 ## Introduction 
 **Background**
 
-The "Furuta Pendulum" is a sytem of two arms linked together controlled by one motor. The first arm rotates in a horizontal plane and the second arm rotates in a vertical plane at the end of the first arm. A Furuta Pendulm can be seen in the figure below.
+The "Furuta Pendulum" is a sytem of two arms linked together controlled by one motor. The first arm rotates in a horizontal plane and the second arm rotates in a vertical plane at the end of the first arm. A motor is attached to one end of the first arm while the second arm is attached to the other end. The second arm rotates freely about its rotation plane. A Furuta Pendulm can be seen in the figure below.
+
 <p align="center">
   <img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/RotaryInvertedPendulum.png?raw= true" title="Furuta Pendulum Example">
 </p>
+
 <h3 align="center">Furuta Pendulum Example</h3>
 
-Resources 
+The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
+
+Several resources are listed below. These resources were utlized by the team throughtout the design process of the project. For full citation refer to "Reference":
+Automatic Control with experiments: Victor Manuel Hernandez-Guzman & Ramon Silva-Ortigoza 
+Control System Engineering : 7th Edition; Norman S. Nice 
+
 ## System Requirements
 ## Model
 ## Controller and Design Simulations
 ## Results
 ## References
+Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
 
-Several resources are listed below. These resources were utlized by the team throughtout the design process of the project. For full citation refer to "Reference":
-Automatic Control with experiments: Victor Manuel Hernandez-Guzman & Ramon Silva-Ortigoza 
-Control System Engineering : 7th Edition; Norman S. Nice 
+Nise, N. S. (2011). Control Systems Engineering. John Wiley & Sons.
+
