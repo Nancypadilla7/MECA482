@@ -27,6 +27,7 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 Hello again!
 ## Controller and Design Simulations
 ## Results
+These are our results
 ## References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
 
