@@ -21,7 +21,7 @@ The "Furuta Pendulum" is a sytem of two arms linked together controlled by one m
 
 The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
 <p align="center">
-  <img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/operationalviewpoint.png?raw= true" title="operational ViewPoint for the Pendulum">
+  <img width="165" height="300" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/OperationViewpoint.png?raw= true" title="operational ViewPoint for the Pendulum">
 </p>
 
 ## System Requirements
