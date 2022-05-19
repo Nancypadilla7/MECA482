@@ -24,7 +24,7 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 
 ## System Requirements
 ## Model
-Hello
+Hello again!
 ## Controller and Design Simulations
 ## Results
 ## References
