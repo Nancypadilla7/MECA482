@@ -100,7 +100,7 @@ Applying the prevoius equations,the relationship of the equations, it expression
 The simulation was achievied in CoppeliaSIM. The equation of motion is implemented into comppeliaSIM. The model is programmed using MATLAB and then the program is linked to CoppeliaSIM.                                     
 ## Results
 <p align="center">
-  <img width="949" height="756" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new1.PNG" title="Furuta Pendulum Example">
+  <img width="939" height="746" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new1.PNG" title="Furuta Pendulum Example">
 </p>
 
 <p align="center">
