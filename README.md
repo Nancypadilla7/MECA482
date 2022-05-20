@@ -116,6 +116,10 @@ The simulation was achievied in CoppeliaSIM. The equation of motion is implement
 </p>
              
 
+<p align="center">
+  <img width="558" height="500" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/stp%20response.PNG" title="Furuta Pendulum Example">
+</p>
+
 ## References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
 
