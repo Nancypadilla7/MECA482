@@ -99,6 +99,23 @@ Applying the prevoius equations,the relationship of the equations, it expression
 ## Controller and Design Simulations
 The simulation was achievied in CoppeliaSIM. The equation of motion is implemented into comppeliaSIM. The model is programmed using MATLAB and then the program is linked to CoppeliaSIM.                                     
 ## Results
+<p align="center">
+  <img width="949" height="756" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new1.PNG" title="Furuta Pendulum Example">
+</p>
+
+<p align="center">
+  <img width="953" height="730" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new2.PNG" title="Furuta Pendulum Example">
+</p>
+
+<p align="center">
+  <img width="1105" height="774" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new3.PNG" title="Furuta Pendulum Example">
+</p>
+
+<p align="center">
+  <img width="690" height="724" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/new5.PNG" title="Furuta Pendulum Example">
+</p>
+             
+
 ## References
 Hernández-Guzmán, Victor Manuel, and Ramón Silva-Ortigoza. Automatic control with experiments. Cham, Switzerland: Springer, 2019.
 
