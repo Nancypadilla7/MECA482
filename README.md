@@ -16,6 +16,9 @@ The "Furuta Pendulum" is a sytem of two arms linked together controlled by one m
   <img width="165" height="300" src="images/RotaryInvertedPendulum.png" title="Furuta Pendulum Example">
 </p>
 
+
+
+
 The goal is to balance the second arm in an upwards vertical position. To acheive this, control methods must be developed, tested and implemented. A mathematical model is devloped in MATLAB using the methods developed by Hernández-Guzmán (870). The model is simulated in CoppeliaSim to verify its success.
 
 
@@ -29,6 +32,12 @@ The goal is to balance the second arm in an upwards vertical position. To acheiv
 </p>
 
 <h3 align="center">Operational Viewpoint for the Furuta Pendulum</h3>
+
+
+
+<p align="center">
+  <img width="491" height="530" src="https://github.com/Nancypadilla7/MECA482/blob/main/images/LogicalFunctionalViewpoint.png" title="operational ViewPoint for the Pendulum">
+</p>
 
 ## Model
 
